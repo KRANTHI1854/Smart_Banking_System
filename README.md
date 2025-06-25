@@ -96,6 +96,10 @@ A **Java-based console application** designed to simulate basic banking operatio
 ---
 
 
+## Documentation (Code File ) 📄
+
+You can access the full code documentation in PDF format here:
+[SmartBankApp_FullCode.pdf](https://github.com/KRANTHI1854/Smart_Banking_System/blob/main/SmartBankApp_FullCode.pdf)
 
 
 
