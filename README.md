@@ -1,4 +1,4 @@
-# Smart_Banking_App 🏦
+# Smart_Banking_System 🏦
 
 A **Java-based console application** designed to simulate basic banking operations. This application allows users to create accounts, log in to their accounts, and perform transactions like deposits, withdrawals, and balance inquiries. The program is structured with a clear focus on modularity, validation, and user-friendly interaction.
 
